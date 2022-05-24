@@ -1,0 +1,30 @@
+<html>
+<head>
+<style>
+table ,th,td {
+border: 1px solid black;
+}
+</style>
+</head>
+
+<h1>Student Info </h1>
+
+<table>
+<tr>
+<th>Name</th>
+<th>ID</th>
+</tr>
+
+<tr>
+<td>Nushrat</td>
+<td>20-42192-1</td>
+</tr>
+
+<tr>
+<td>Mumu</td>
+<td>20-42242-1</td>
+</tr>
+
+</table>
+</body>
+</html>
