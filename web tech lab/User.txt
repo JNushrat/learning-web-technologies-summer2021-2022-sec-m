@@ -1,0 +1,3 @@
+nush|1233|nush.se.aiub@gmail.com
+XYZ|1223|xyz.se.aiub@gmail.com
+admin|123|admin.se.aiub@gmail.com
